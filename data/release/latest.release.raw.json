@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2994234,
       "digest": "sha256:97d988cedc7307762e4d365166460c3c04d5efa49b0539cdce6c0f389438a413",
-      "download_count": 35,
+      "download_count": 36,
       "created_at": "2026-03-20T23:24:09Z",
       "updated_at": "2026-03-20T23:24:10Z",
       "browser_download_url": "https://github.com/thewizardshell/froggit/releases/download/v1.4.0-beta/darwin-arm64.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3141412,
       "digest": "sha256:88021a98e0211a55ee9f90cdfbef185120809c9519d9b8003e488d7076404e19",
-      "download_count": 153,
+      "download_count": 170,
       "created_at": "2026-03-20T23:24:09Z",
       "updated_at": "2026-03-20T23:24:09Z",
       "browser_download_url": "https://github.com/thewizardshell/froggit/releases/download/v1.4.0-beta/linux-amd64.zip"
